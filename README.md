@@ -21,27 +21,32 @@ Estudo através dos cursos da <a href="https://cursos.alura.com.br/user/glorylaf
 <h1></h1>
 <h3>Habilidades</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)	
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=redhat&logoColor=EE0000)
 ![GoLang](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)	
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Postgresql](https://img.shields.io/badge/Postgresql-000?style=for-the-badge&logo=postgresql)
-![CyPress](https://img.shields.io/badge/Cypress-000?style=for-the-badge&logo=cypress&logoColor=17202C&logoColor=fff)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=#6DB33F)
 ![Node.js](https://img.shields.io/badge/Nodejs-000?style=for-the-badge&logo=node.js)
 ![Nest.js](https://img.shields.io/badge/Nestjs-000?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 
-![Photoshop](https://img.shields.io/badge/photoshop-000?style=for-the-badge&logo=adobephotoshop)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![Notion](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Postgresql](https://img.shields.io/badge/Postgresql-000?style=for-the-badge&logo=postgresql)
+
 
 <!--  
+<p>Extras</p>
+
+![Photoshop](https://img.shields.io/badge/photoshop-000?style=for-the-badge&logo=adobephotoshop)
+![CyPress](https://img.shields.io/badge/Cypress-000?style=for-the-badge&logo=cypress&logoColor=17202C&logoColor=fff)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![Notion](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
+
 <h3>GitHub Stats</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glorylaflare&layout=donut-vertical&theme=algolia)

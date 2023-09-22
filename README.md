@@ -1,12 +1,26 @@
-# Oi! 👋🏽
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://cdn.discordapp.com/attachments/1076560271646150738/1154878279858266224/Hand_coding-bro.png">
 
-Prazer meu nome é Marcelo, mas também sou conhecido por ai como **Glory** ou **GloryLaFlare**, só procurar pelas redes que você me localiza, sou formado em Engenharia Civil mas optei em migrar para a área de programação depois de me aventurar na área em 2019, criando projetos para o Discord, entretanto minha paixão por computação vem desde cedo, aos 14 anos, meu primeiro contato com HTML, foi fuçando em códigos de sites através da ferramenta de inspeção, mas só recentemente que resolvi mergulhar nessa área, então nunca mais parei, comecei a aprender JavaScript e Node.js, tentando programar algo para o Discord, desenvolvi alguns bots, mas que não tinham muitas complexidades, porém através de um bot do discord, o YAGPDB, foi onde aprendi de fato sobre o mundo da programação, lendo documentação e desenvolvendo coisas mais complexas e funcionais.
+<h1>
+🙅🏽‍♂️ Marcelo Gonçalves 
+</h1>
 
-Então em 2021 resolvi começar meus estudos sérios em programação, comecei pelo site da Alura e hoje estou estudando também pela Dio, são as duas plataformas que faço meus cursos e desenvolvo meus projetos.
+<p align="justify">
+Formado em Engenharia Civil, porém optei em migrar de área para Desenvolvedor. Sempre fui apaixonado por computação e desde que me aprofundei sobre a área de Desenvolvimento, em 2019, venho gostando cada vez mais. Meu objetivo é me tornar um Desenvolvedor Back-End, hoje é meu principal foco, tanto de estudo quanto de projetos.
 
-Meu objetivo é me tornar um programador Back-End, hoje é meu principal foco, tanto de estudo quanto de projetos.
+Estudo através dos cursos da <a href="https://cursos.alura.com.br/user/glorylaflare">Alura</a> e da <a href="https://web.dio.me/users/glorylaflare?tab=skills">Dio</a>.
+</p>
 
-## Habilidades
+<h3>Sociais</h3>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcelogjr/) 
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/glorylaflare)
+[![Duolingo](https://img.shields.io/badge/Duolingo-000?style=for-the-badge&logo=duolingo)](https://www.duolingo.com/profile/glorylaflare)
+[![Letterboxd](https://img.shields.io/badge/letterboxd-000?style=for-the-badge&logo=letterboxd)](https://letterboxd.com/glorylaflare/)
+[![Codepen](https://img.shields.io/badge/Codepen-000?style=for-the-badge&logo=codepen)](https://codepen.io/glorylaflare)
+
+<h1></h1>
+<h3>Habilidades</h3>
+
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)	
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -27,16 +41,8 @@ Meu objetivo é me tornar um programador Back-End, hoje é meu principal foco, t
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 ![Notion](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion)
 
-## GitHub Stats
+<!--  
+<h3>GitHub Stats</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glorylaflare&layout=donut-vertical&theme=algolia)
-
-## Sociais
-[![Alura](https://img.shields.io/badge/meu_perfil_alura-093364?style=for-the-badge&logo=alura)](https://cursos.alura.com.br/user/glorylaflare) 
-[![DIO](https://img.shields.io/badge/meu_perfil_dio-fff?style=for-the-badge)](https://web.dio.me/users/glorylaflare?tab=skills)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcelogjr/) 
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/glorylaflare)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/glorylaflare/)
-[![Letterboxd](https://img.shields.io/badge/letterboxd-000?style=for-the-badge&logo=letterboxd)](https://letterboxd.com/glorylaflare/)
-[![Duolingo](https://img.shields.io/badge/Duolingo-000?style=for-the-badge&logo=duolingo)](https://www.duolingo.com/profile/glorylaflare)
-[![Codepen](https://img.shields.io/badge/Codepen-000?style=for-the-badge&logo=codepen)](https://codepen.io/glorylaflare)
+-->

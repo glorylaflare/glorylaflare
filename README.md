@@ -7,7 +7,7 @@
 <p align="justify">
 Formado em Engenharia Civil, porém optei em migrar de área para Desenvolvedor. Sempre fui apaixonado por computação e desde que me aprofundei sobre a área de Desenvolvimento, em 2019, venho gostando cada vez mais. Meu objetivo é se tornar um Desenvolvedor Back-End, hoje é meu principal foco, tanto de estudo quanto de projetos.
 
-Estudo através dos cursos da <a href="https://cursos.alura.com.br/user/glorylaflare">Alura</a> e da <a href="https://web.dio.me/users/glorylaflare?tab=skills">Dio</a>.
+Estudo através dos cursos da <a href="https://cursos.alura.com.br/user/glorylaflare">Alura</a> e da <a href="https://www.dio.me/users/glorylaflare">Dio</a>.
 </p>
 
 <h3>Sociais</h3>

@@ -28,8 +28,10 @@ Estudo através dos cursos da <a href="https://cursos.alura.com.br/user/glorylaf
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)	
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=csharp&logoColor=512BD4)
 
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=#61DAFB)
 ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=#6DB33F)
 ![Node.js](https://img.shields.io/badge/Nodejs-000?style=for-the-badge&logo=node.js)
 ![Nest.js](https://img.shields.io/badge/Nestjs-000?style=for-the-badge&logo=nestjs&logoColor=E0234E)

@@ -39,6 +39,11 @@ Estudo através dos cursos da <a href="https://cursos.alura.com.br/user/glorylaf
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 ![Postgresql](https://img.shields.io/badge/Postgresql-000?style=for-the-badge&logo=postgresql)
 
+<div style="display: flex;">
+<img height=200 width=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorylaflare&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" />
+<img height=200 width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=glorylaflare&theme=vision-friendly-dark&hide_border=true" />
+<img height=200 width=320 src="https://github-readme-stats.vercel.app/api?username=glorylaflare&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" />
+</div>
 
 <!--  
 <p>Extras</p>

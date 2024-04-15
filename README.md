@@ -29,6 +29,7 @@
   ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
   ![C#](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=csharp&logoColor=512BD4)
+  <!-- ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC) -->
   
   ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
   ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=#61DAFB)

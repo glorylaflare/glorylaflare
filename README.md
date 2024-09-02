@@ -17,6 +17,7 @@
   [![Duolingo](https://img.shields.io/badge/Duolingo-000?style=for-the-badge&logo=duolingo)](https://www.duolingo.com/profile/glorylaflare)
   [![Letterboxd](https://img.shields.io/badge/letterboxd-000?style=for-the-badge&logo=letterboxd)](https://letterboxd.com/glorylaflare/)
   [![Codepen](https://img.shields.io/badge/Codepen-000?style=for-the-badge&logo=codepen)](https://codepen.io/glorylaflare)
+  [![HackerRank](https://img.shields.io/badge/Hackerrank-000?style=for-the-badge&logo=hackerrank&logoColor=#00EA64)](https://www.hackerrank.com/profile/juninho_toh)
   
   <h1></h1>
   <h3>Habilidades</h3>

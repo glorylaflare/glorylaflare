@@ -39,6 +39,8 @@
   
   ![Postgresql](https://img.shields.io/badge/Postgresql-000?style=for-the-badge&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+  ![Flyway](https://img.shields.io/badge/Flyway-000?style=for-the-badge&logo=flyway&logoColor=CC0200)
+  ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
 </div>
 
 <div style="display: flex;">

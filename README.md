@@ -5,7 +5,7 @@
 
 <div>
   <p align="justify">
-  Sou formado em Engenharia Civil, porém optei em migrar de área para Ciência da computação, mas precisamente como Desenvolvedor de Software. Sempre fui apaixonado por computação e desde que me aprofundei sobre a área de Desenvolvimento, em 2019, venho gostando cada vez mais. Meu objetivo é se tornar um Desenvolvedor Back-End em Java, hoje sendo meu principal foco, tanto de estudos, quanto de projetos.
+  Sou formado em Engenharia Civil, porém optei em migrar de área para ciência da computação, mas precisamente como Desenvolvedor de Software. Sempre fui apaixonado por computação e desde que me aprofundei sobre a área de Desenvolvimento, em 2019, venho gostando cada vez mais. Meu objetivo é se tornar um Desenvolvedor Back-End em Java, hoje sendo meu principal foco, tanto de estudos, quanto de projetos.
   
   Estudo através dos cursos da <a href="https://cursos.alura.com.br/user/glorylaflare">Alura</a> e da <a href="https://www.dio.me/users/glorylaflare">Dio</a>. Atualmente estou cursando Ciência da Computação na Estácio.
   </p>

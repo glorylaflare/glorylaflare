@@ -26,10 +26,10 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+  [C#](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=csharp&logoColor=512BD4)
   ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)	
   ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
   <!-- ![GoLang](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go) -->
-  <!-- ![C#](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=csharp&logoColor=512BD4) -->
   <!-- ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC) -->
   
   ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=#6DB33F)

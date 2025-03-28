@@ -13,11 +13,11 @@
   <h3>Sociais</h3>
     
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcelogjr/) 
-  <!-- [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x)](https://twitter.com/glorylaflare) -->
   [![Duolingo](https://img.shields.io/badge/Duolingo-000?style=for-the-badge&logo=duolingo)](https://www.duolingo.com/profile/glorylaflare)
   [![Letterboxd](https://img.shields.io/badge/letterboxd-000?style=for-the-badge&logo=letterboxd)](https://letterboxd.com/glorylaflare/)
   [![Codepen](https://img.shields.io/badge/Codepen-000?style=for-the-badge&logo=codepen)](https://codepen.io/glorylaflare)
   [![HackerRank](https://img.shields.io/badge/Hackerrank-000?style=for-the-badge&logo=hackerrank&logoColor=#00EA64)](https://www.hackerrank.com/profile/juninho_toh)
+  <!-- [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x)](https://twitter.com/glorylaflare) -->
   
   <h1></h1>
   <h3>Habilidades</h3>

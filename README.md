@@ -1,13 +1,10 @@
 <div> 
-  <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://i.ibb.co/4PNMxTp/Mission-Impossible-bro.png">
-  <h1>🙎🏽‍♂️ Olá, eu sou o Marcelo!</h1>
+  <h1>😎 Bem-vindo(a)</h1>
 </div>
 
 <div>
   <p align="justify">
-  Sou formado em Engenharia Civil, porém optei em migrar de área para ciência da computação, mas precisamente como Desenvolvedor de Software. Sempre fui apaixonado por computação e desde que me aprofundei sobre a área de Desenvolvimento, em 2019, venho gostando cada vez mais. Meu objetivo é se tornar um Desenvolvedor Back-End em Java, hoje sendo meu principal foco, tanto de estudos, quanto de projetos.
-  
-  Estudo através dos cursos da <a href="https://cursos.alura.com.br/user/glorylaflare">Alura</a> e da <a href="https://www.dio.me/users/glorylaflare">Dio</a>. Atualmente estou cursando Ciência da Computação na Estácio.
+    Olá, meu nome é Marcelo, sou desenvolvedor de software e estudante de ciência da computação. Apaixonado por computação desde criança, atualmente estou atuando como desenvolvedor full-stack na Avanade utilizando .Net e React com Typescript. Costumo estudar nas plataformas da <a href="https://cursos.alura.com.br/user/glorylaflare">Alura</a> e <a href="https://www.dio.me/users/glorylaflare">Dio</a> para me aperfeiçoar. Também possuo conhecimento no desenvolvimento back-end utilizando Java e Javascript.
   </p>
   
   <h3>Sociais</h3>
@@ -22,13 +19,15 @@
   <h1></h1>
   <h3>Habilidades</h3>
   
+  
   ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=redhat&logoColor=EE0000)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+  ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=512BD4)
   ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-  ![C#](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=dotnet&logoColor=512BD4)
   ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)	
-  ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+  ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css&logoColor=264CE4)
+  ![SCSS](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass&logoColor=#CC6699)
   <!-- ![GoLang](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go) -->
   <!-- ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC) -->
   
@@ -44,22 +43,24 @@
   ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
 </div>
 
+<h3>Ferramentas</h3>
+
+![Notion](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion)
+![TickTick](https://img.shields.io/badge/ticktick-000?style=for-the-badge&logo=ticktick)
+![Miro](https://img.shields.io/badge/miro-000?style=for-the-badge&logo=miro&logoColor=FFFC00)
+![Postman](https://img.shields.io/badge/postman-000?style=for-the-badge&logo=postman)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
+
 <div style="display: flex;">
   <img height=200 width=323 src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorylaflare&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" />
   <img height=200 width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=glorylaflare&theme=vision-friendly-dark&hide_border=true" />
   <!-- <img height=200 width=320 src="https://github-readme-stats.vercel.app/api?username=glorylaflare&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" /> -->
 </div>
 
-<!--  
-<p>Extras</p>
-
-![Photoshop](https://img.shields.io/badge/photoshop-000?style=for-the-badge&logo=adobephotoshop)
-![CyPress](https://img.shields.io/badge/Cypress-000?style=for-the-badge&logo=cypress&logoColor=17202C&logoColor=fff)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![Notion](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
-
+<!--
 <h3>GitHub Stats</h3>
+
+https://simpleicons.org/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glorylaflare&layout=donut-vertical&theme=algolia)
 -->

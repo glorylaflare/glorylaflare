@@ -49,13 +49,14 @@
 ![TickTick](https://img.shields.io/badge/ticktick-000?style=for-the-badge&logo=ticktick)
 ![Miro](https://img.shields.io/badge/miro-000?style=for-the-badge&logo=miro&logoColor=FFFC00)
 ![Postman](https://img.shields.io/badge/postman-000?style=for-the-badge&logo=postman)
+![DBeaver](https://img.shields.io/badge/dbeaver-000?style=for-the-badge&logo=dbeaver&logoColor=382923)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
 
-<div style="display: flex;">
+<!-- <div style="display: flex;">
   <img height=200 width=323 src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorylaflare&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" />
   <img height=200 width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=glorylaflare&theme=vision-friendly-dark&hide_border=true" />
-  <!-- <img height=200 width=320 src="https://github-readme-stats.vercel.app/api?username=glorylaflare&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" /> -->
-</div>
+  <img height=200 width=320 src="https://github-readme-stats.vercel.app/api?username=glorylaflare&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" /> 
+</div> -->
 
 <!--
 <h3>GitHub Stats</h3>

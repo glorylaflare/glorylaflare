@@ -41,6 +41,8 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
   ![Flyway](https://img.shields.io/badge/Flyway-000?style=for-the-badge&logo=flyway&logoColor=CC0200)
   ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+  ![datadog](https://img.shields.io/badge/datadog-000?style=for-the-badge&logo=datadog&logoColor=632CA6)
 </div>
 
 <h3>Ferramentas</h3>
@@ -51,6 +53,7 @@
 ![Postman](https://img.shields.io/badge/postman-000?style=for-the-badge&logo=postman)
 ![DBeaver](https://img.shields.io/badge/dbeaver-000?style=for-the-badge&logo=dbeaver&logoColor=382923)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
+![godotengine](https://img.shields.io/badge/godot-000?style=for-the-badge&logo=godotengine&logoColor=478CBF)
 
 <!-- <div style="display: flex;">
   <img height=200 width=323 src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorylaflare&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" />

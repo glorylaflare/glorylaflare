@@ -40,6 +40,7 @@
   ![Postgresql](https://img.shields.io/badge/Postgresql-000?style=for-the-badge&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
   ![Flyway](https://img.shields.io/badge/Flyway-000?style=for-the-badge&logo=flyway&logoColor=CC0200)
+  ![Liquibase](https://img.shields.io/badge/Liquibase-000?style=for-the-badge&logo=liquibase&logoColor=2962FF)
   ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
 
   ![datadog](https://img.shields.io/badge/datadog-000?style=for-the-badge&logo=datadog&logoColor=632CA6)
@@ -53,6 +54,7 @@
 ![Postman](https://img.shields.io/badge/postman-000?style=for-the-badge&logo=postman)
 ![DBeaver](https://img.shields.io/badge/dbeaver-000?style=for-the-badge&logo=dbeaver&logoColor=382923)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git)
+![Jira](https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=Jira&logoColor=0052CC)
 ![godotengine](https://img.shields.io/badge/godot-000?style=for-the-badge&logo=godotengine&logoColor=478CBF)
 
 <!-- <div style="display: flex;">

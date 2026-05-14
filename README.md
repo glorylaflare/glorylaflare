@@ -19,19 +19,20 @@
   <h1></h1>
   <h3>Habilidades</h3>
   
-  
+  ![CSharp](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=resharper&logoColor=FF55DD)
   ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=redhat&logoColor=EE0000)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-  ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=512BD4)
   ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-  <!-- ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) -->
+  
   ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)	
   ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css&logoColor=264CE4)
-  ![SCSS](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass&logoColor=#CC6699)
-  <!-- ![GoLang](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go) -->
+  ![SCSS](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass&logoColor=CC6699)
+  ![Tailwind](https://img.shields.io/badge/tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+  <!-- ![StyledComponents](https://img.shields.io/badge/styledcomponents-000?style=for-the-badge&logo=styledcomponents) -->
   <!-- ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC) -->
   
   ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=#6DB33F)
+  ![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=512BD4)
   ![Node.js](https://img.shields.io/badge/Nodejs-000?style=for-the-badge&logo=node.js)
   ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
   ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=#61DAFB)
@@ -39,11 +40,13 @@
   
   ![Postgresql](https://img.shields.io/badge/Postgresql-000?style=for-the-badge&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+  ![Redis](https://img.shields.io/badge/Redis-000?logo=redis&logoColor=D9281A&style=for-the-badge)
   ![Flyway](https://img.shields.io/badge/Flyway-000?style=for-the-badge&logo=flyway&logoColor=CC0200)
   ![Liquibase](https://img.shields.io/badge/Liquibase-000?style=for-the-badge&logo=liquibase&logoColor=2962FF)
-  ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
 
   ![datadog](https://img.shields.io/badge/datadog-000?style=for-the-badge&logo=datadog&logoColor=632CA6)
+  ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 </div>
 
 <h3>Ferramentas</h3>
